@@ -42,3 +42,8 @@ const eventHandler=(req,res)=>{
 }
 
 module.exports = eventHandler
+
+//module.exports = {
+//    handler:eventHandler,
+//    somehandle:'hard coded handler'
+//}
